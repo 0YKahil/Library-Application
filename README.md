@@ -16,13 +16,6 @@
 Whether it is a student, worker, or any reader, a library app is useful for everyone to easily manage 
 and navigate to books to borrow.
 
-
-- This project is an interest to me because during my early teens I wsa an avid reader and while first I used to go to 
-the physical library, as I grew older and realized the library did not have all the books I was looking for, which led 
-me to finding an app called overdrive that connects to the library using your library card and displays a much wider 
-selection of books in electronic for, while still keeping the libraries borrowing aspect. This drove me to decide to 
-make something along those lines using the knowledge and skills I have now.
-
 ### User Stories
 - As a user I want to be able to "donate" (add) books to the library and make them available to borrow.
 - As a user I want to be able to list all the books in the library and an option to display only available books 
