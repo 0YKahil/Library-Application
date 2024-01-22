@@ -1,0 +1,23 @@
+{
+    "books": [
+        {
+            "author": "Rick Riordan",
+            "rating": 0,
+            "genre": "FANTASY",
+            "title": "Percy Jackson and the Olympians: The Lightning thief"
+        },
+        {
+            "author": "Agatha Christie",
+            "rating": 0,
+            "genre": "MYSTERY",
+            "title": "Murder on the Orient Express"
+        },
+        {
+            "author": "J. R. R. Tolkien",
+            "rating": 0,
+            "genre": "FANTASY",
+            "title": "The Hobbit"
+        }
+    ],
+    "name": "User"
+}

@@ -1,0 +1,17 @@
+{
+    "books": [
+        {
+            "author": "Stephen King",
+            "rating": 0,
+            "genre": "HORROR",
+            "title": "It"
+        },
+        {
+            "author": "J.K. Rowling",
+            "rating": 0,
+            "genre": "FANTASY",
+            "title": "Harry Potter"
+        }
+    ],
+    "name": "Youssef"
+}
